@@ -1,6 +1,5 @@
 /*******************************************************************************
- * CS344 - Fall 2020
- * Program name: smallsh - assignment 03
+ * Program name: smallsh
  * Author: Felipe Groberio <teixeirf@oregonstate.edu>
  * Date: November 3rd, 2020
  * Description: this program simulates an interactive shell. It implements
